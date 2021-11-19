@@ -63,6 +63,8 @@ redisExporter:
     #   cpu: 100m
     #   memory: 128Mi
 
+sidecars: []
+
 # priorityClassName: "-"
 
 nodeSelector: {}

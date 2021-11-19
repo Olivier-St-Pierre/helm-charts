@@ -54,6 +54,8 @@ redisExporter:
   #       name: mysecret
   #       key: username
 
+sidecars: []
+
 # priorityClassName: "-"
 
 # imagePullSecrets:
